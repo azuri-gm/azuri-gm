@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: azuri@hey.com
 <!--
 **azuri-gm/azuri-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
