@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 📫 How to reach me: azuri@hey.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=azuri-gm&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuri-gm" />
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuri-gm&hide=clojure,ruby&theme=onedark" />
 </a>
 
 
