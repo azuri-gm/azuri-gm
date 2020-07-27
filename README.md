@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=azuri-gm&show_icons=true&theme=onedark" />
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuri-gm&hide=clojure,ruby&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuri-gm&hide=clojure,ruby,css&theme=onedark" />
 </a>
 
 
