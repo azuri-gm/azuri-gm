@@ -1,5 +1,7 @@
-### Hi there 👋
-- 📫 How to reach me: azuri@hey.com
+### Hi there, I'm [Eduardo][website] 👋
+
+#### Connect with me:
+- 📫 azuri@hey.com
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=azuri-gm&show_icons=true&theme=onedark" />
@@ -8,6 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuri-gm&hide=clojure,ruby,css&theme=onedark" />
 </a>
 
+[website]: https://azuri.dev
 
 <!--
 **azuri-gm/azuri-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
