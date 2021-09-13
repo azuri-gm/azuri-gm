@@ -8,7 +8,7 @@
 [<img align="left" alt="azuri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="azuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://azuri.dev
+[website]: https://azuri.app
 [twitter]: https://twitter.com/At_zuri
 [linkedin]: https://www.linkedin.com/in/eduardo-gayt%C3%A1n-68412397/
 
